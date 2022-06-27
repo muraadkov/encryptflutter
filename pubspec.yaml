@@ -36,6 +36,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   aes_crypt: ^0.1.1
   file_picker: ^4.5.1
+  cryptography: ^2.0.5
 
 dev_dependencies:
   flutter_test:
